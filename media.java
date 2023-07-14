@@ -2,7 +2,7 @@ package Teste;
 
 import java.util.jar.Attributes.Name;
 
-public class media {
+public class media_notas{
 
 	var nome;
 	var n1, n2,n3, n4;
